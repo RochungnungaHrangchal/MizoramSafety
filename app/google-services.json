@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827060174507",
+    "firebase_url": "https://mizoramsafety.firebaseio.com",
+    "project_id": "mizoramsafety",
+    "storage_bucket": "mizoramsafety.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827060174507:android:45aa8df40d0d07d9ed01ee",
+        "android_client_info": {
+          "package_name": "in.nic.mizoram.mizoramsafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827060174507-nagan9updasgr3qbg3nbm2djm9n12ehe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.nic.mizoram.mizoramsafety",
+            "certificate_hash": "88d41c124262010cdb261859099c7ebf493d278c"
+          }
+        },
+        {
+          "client_id": "827060174507-2f98t8abls6ma18bblcsrtgodhn1dg3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oTll38iIg8D3CumdOsymSIoCpaDfSQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827060174507-2f98t8abls6ma18bblcsrtgodhn1dg3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
